@@ -1,0 +1,28 @@
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .song_title {
+    margin-bottom: 10px;    
+    /* border:10px solid red; */
+    color:white;
+  }
+  
+  .audio_controls button {
+    margin-right: 10px;
+    margin-bottom: 5px;
+    /* border:10px solid red; */
+  }
+  
+  .audio_controls {
+    display: flex;
+    flex-direction: column; /* Reverse the order of elements */
+  }
+  .song_title{
+    margin-left:35px;
+  }
+
